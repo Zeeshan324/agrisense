@@ -1,0 +1,6 @@
+streamlit==1.52.2
+folium>=0.19,<1
+streamlit-folium>=0.25,<1
+netCDF4>=1.7,<2
+numpy>=1.26,<3
+altair>=5,<7

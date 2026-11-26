@@ -1,0 +1,9 @@
+AgriSense GitHub copy
+
+Run with Python 3.12 installed:
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+
+You can also double-click Start AgriSense.bat.
+For Streamlit Community Cloud, use app.py and Python 3.12.
+Upload the data folder and .streamlit/config.toml with the source.
